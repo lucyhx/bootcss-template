@@ -2,6 +2,8 @@
 
 > 收集我经常使用的一些Bootstrap模板
 
+[English](https://github.com/lucyhx/bootcss-template/blob/master/README.md#readme)
+
 ## Web模板
 
 - [official](https://github.com/lucyhx/bootcss-template/tree/master/web/official) - 官方模板
